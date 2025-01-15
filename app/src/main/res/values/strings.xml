@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">project2</string>
+    <string name="MealMastermind">MealMastermind</string>
+    <string name="Home">Home</string>
+    <string name="Back">Back</string>
+    <string name="Recipes">Recipes</string>
+    <string name="Login">Log in</string>
+    <string name="Signup">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="verify_password">Verify Password</string>
+    <string name="email">Email</string>
+    <string name="remember">Remember Me</string>
+    <string name="login_failure">Login Failed: Try Again</string>
+    <string name="meal_plan">Meal Plan</string>
+    <string name="Add_Recipes">Add Recipes</string>
+    <string name="Add_to_Plan">Add to Plan</string>
+    <string name="Logout">Log Out</string>
+    <string name="Add_Recipes_Prompt">Add Recipes to Your Meal Plan</string>
+    <string name="Search">Search</string>
+    <string name="Add">Add</string>
+    <string name="Add_Meal_Prompt">Select A Day and Meal</string>
+    <string name="Enter">Enter</string>
+</resources>

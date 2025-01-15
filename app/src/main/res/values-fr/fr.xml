@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projet2</string>
+    <string name="MealMastermind">MealMastermind</string>
+    <string name="Home">Accueil</string>
+    <string name="Back">Retour</string>
+    <string name="Recipes">Recettes</string>
+    <string name="Login">Se connecter</string>
+    <string name="Signup">S\'inscrire</string>
+    <string name="password">Mot de passe</string>
+    <string name="verify_password">Vérifier le mot de passe</string>
+    <string name="email">E-mail</string>
+    <string name="remember">Se souvenir de moi</string>
+    <string name="login_failure">Échec de la connexion : Réessayez</string>
+    <string name="meal_plan">Plan de repas</string>
+    <string name="Add_Recipes">Ajouter des recettes</string>
+    <string name="Add_to_Plan">Ajouter au plan</string>
+    <string name="Logout">Se déconnecter</string>
+    <string name="Add_Recipes_Prompt">Ajouter des recettes à votre plan de repas</string>
+    <string name="Search">Rechercher</string>
+    <string name="Add">Ajouter</string>
+    <string name="Add_Meal_Prompt">Sélectionnez un jour et un repas</string>
+    <string name="Enter">Entrer</string>
+</resources>

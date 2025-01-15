@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519387355829",
+    "project_id": "mealprepapp-43cf8",
+    "storage_bucket": "mealprepapp-43cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519387355829:android:b7bf19fda18025b5e03cfc",
+        "android_client_info": {
+          "package_name": "com.example.project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM0Qy_vgzU3_Ao_dEy2rXqkWArlYs0HB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

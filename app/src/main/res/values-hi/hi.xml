@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">परियोजना 2</string>
+    <string name="MealMastermind">भोजन मास्टरमाइंड</string>
+    <string name="Home">होम</string>
+    <string name="Back">वापस</string>
+    <string name="Recipes">रेसिपीज़</string>
+    <string name="Login">लॉग इन करें</string>
+    <string name="Signup">साइन अप करें</string>
+    <string name="password">पासवर्ड</string>
+    <string name="verify_password">पासवर्ड सत्यापित करें</string>
+    <string name="email">ईमेल</string>
+    <string name="remember">मुझे याद रखें</string>
+    <string name="login_failure">लॉग इन विफल: पुनः प्रयास करें</string>
+    <string name="meal_plan">भोजन योजना</string>
+    <string name="Add_Recipes">रेसिपीज़ जोड़ें</string>
+    <string name="Add_to_Plan">योजना में जोड़ें</string>
+    <string name="Logout">लॉग आउट</string>
+    <string name="Add_Recipes_Prompt">अपनी भोजन योजना में रेसिपीज़ जोड़ें</string>
+    <string name="Search">खोजें</string>
+    <string name="Add">जोड़ें</string>
+    <string name="Add_Meal_Prompt">एक दिन और भोजन का चयन करें</string>
+    <string name="Enter">प्रवेश करें</string>
+</resources>
